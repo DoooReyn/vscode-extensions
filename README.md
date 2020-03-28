@@ -277,7 +277,17 @@ Minify with command, and (optionally) re-minify on save.</span>
   - description: <span style="border-bottom:2px dashed blue;">Intelligent and fast import extension for js in vscode, support import position option and adding import to existing import statement.</span>
   - publisher: <span style="border-bottom:2px dashed blue;">wangtao0101</span>
 
+- **sneak-mark**
+  - displayName: <span style="border-bottom:2px dashed blue;">sneak mark</span>
+  - description: <span style="border-bottom:2px dashed blue;">检测英文语句中的中文符号</span>
+  - publisher: <span style="border-bottom:2px dashed blue;">wangzy</span>
+
 - **cocos-effect**
   - displayName: <span style="border-bottom:2px dashed blue;">Cocos Effect</span>
   - description: <span style="border-bottom:2px dashed blue;">Cocos effect file syntax support</span>
   - publisher: <span style="border-bottom:2px dashed blue;">Yaji</span>
+
+- **markdown-all-in-one**
+  - displayName: <span style="border-bottom:2px dashed blue;">%ext.displayName%</span>
+  - description: <span style="border-bottom:2px dashed blue;">%ext.description%</span>
+  - publisher: <span style="border-bottom:2px dashed blue;">yzhang</span>
