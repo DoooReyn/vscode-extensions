@@ -30,7 +30,7 @@ async function walk() {
         cfg.subs.forEach(key => {
           let text = json[key] || "";
           text = text.length === 0 ? "unknown" : text;
-          insert(`  - ${key}: <u>${text}</u>`);
+          insert(`  - ${key}: <span style="border-bottom:2px dashed blue;">${text}</span>`);
         });
         insert("");
       }
