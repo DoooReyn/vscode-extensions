@@ -1,0 +1,15 @@
+{
+  "name": "vscode-extensions",
+  "version": "1.0.0",
+  "description": "personal vscode extensions",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "vscode",
+    "extensions"
+  ],
+  "author": "DoooReyn",
+  "license": "ISC"
+}
