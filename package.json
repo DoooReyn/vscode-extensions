@@ -11,5 +11,8 @@
     "extensions"
   ],
   "author": "DoooReyn",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2"
+  }
 }
